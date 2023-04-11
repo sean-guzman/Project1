@@ -1,6 +1,6 @@
 # Project 1
 
-Cory Scarnecchia, Lauren Golden, Sean Guzman, Sincere
+Cory Scarnecchia, Lauren Golden, Sean Guzman, Sincere Estrada
 
 Rutgers Data Sciences Bootcamp, Project 1 (10 April 2023)
 
